@@ -1,0 +1,4 @@
+Primeira linha escrita com python
+Segunda linha escrita com python
+Terceira linha escrita com python
+Quarta linha escrita com python
